@@ -1,0 +1,606 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The five strange wonders of the world, or, A new merry book of all fives which was written and printed on purpose to make all the people of England merry, if they have no cause to be sad / written by L.P.</title>
+            <author>L. P. (Laurence Price), fl. 1625-1680?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1674</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55785</idno>
+            <idno type="STC">Wing P3364A</idno>
+            <idno type="STC">ESTC R6610</idno>
+            <idno type="EEBO-CITATION">11893802</idno>
+            <idno type="OCLC">ocm 11893802</idno>
+            <idno type="VID">50525</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55785)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50525)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 507:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The five strange wonders of the world, or, A new merry book of all fives which was written and printed on purpose to make all the people of England merry, if they have no cause to be sad / written by L.P.</title>
+                  <author>L. P. (Laurence Price), fl. 1625-1680?</author>
+               </titleStmt>
+               <extent>[1], 14, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Whitwood ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1674.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:50525:1"/>
+            <!-- PDF PAGE 118 -->
+            <pb facs="tcp:50525:1"/>
+            <!-- PDF PAGE 118 -->
+            <p>THE FIVE Strange WONDERS OF THE WORLD: <hi>OR,</hi> A new merry Book of all FIVES.</p>
+            <p>Which was written and Printed on purpoſe to make all the people of <hi>England</hi> mer<g ref="char:EOLhyphen"/>ry, if they have no cauſe to be ſad.</p>
+            <lg>
+               <l>Here are ſuch rare conceits and merryment,</l>
+               <l>Which well may give the Readers heart content;</l>
+               <l>And ſerve it will to lengthen ſome folks Lives,</l>
+               <l>If they obſerve the ſeveral ſorts of Fives.</l>
+               <l>Let them that buy it, read it at their leiſure,</l>
+               <l>'T will be as well for profit as for pleaſure.</l>
+            </lg>
+            <p>Written by <hi>L. P.</hi> And Licenſed ac<g ref="char:EOLhyphen"/>cording to Order.</p>
+            <p>London, Printed for <hi>William Whitwood</hi> at the Golden Bell in <hi>Duck-Lane.</hi> 1674.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:50525:2"/>
+            <!-- PDF PAGE 119 -->
+            <list>
+               <head>There are Five ſtrange Wonders in the World.</head>
+               <item>TO hear a Lawyer tell truth,</item>
+               <item>To ſee a Prodigal turn thrifty,</item>
+               <item>To ſee an Informer refuſe a Bribe,</item>
+               <item>To ſee an Uſurer throw away money,</item>
+               <item>And to ſee a Whore turn honeſt.</item>
+            </list>
+            <list>
+               <head>Five Excellent gifts belonging to all ſorts of people.</head>
+               <item>To be faithful in promiſe,</item>
+               <item>To be true in performance,</item>
+               <item>To be humble in proſperity,</item>
+               <item>To be patient in Adverſity,</item>
+               <item>And to remember our later end.</item>
+            </list>
+            <list>
+               <head>Five points of good Husbandry.</head>
+               <item>To avoid all manner of gaming,</item>
+               <item>To ſhun Whoring and Drunkenneſs,</item>
+               <item>To be careful of your buſineſs,</item>
+               <item>To be ſaving in expences,</item>
+               <item>And to get wealth with a good conſcience.</item>
+            </list>
+            <list>
+               <head>Five chief <g ref="char:V">Ʋ</g>pholders in a Common-wealth.</head>
+               <item>The Sea-man,</item>
+               <item>The Merchant,</item>
+               <item>The Farmer,</item>
+               <item>The Shepherd,</item>
+               <item>And the Plow-man.</item>
+            </list>
+            <list>
+               <pb n="2" facs="tcp:50525:2"/>
+               <!-- PDF PAGE 119 -->
+               <head>Five ſorts of Tradſmen we cannot be without.</head>
+               <item>The Carpenter,</item>
+               <item>The Weaver,</item>
+               <item>The Blackſmith,</item>
+               <item>The Taylor,</item>
+               <item>And the Shoomaker.</item>
+            </list>
+            <list>
+               <head>Five ſorts of merry companions when they mees in an Ale-houſe.</head>
+               <item>A Pedler,</item>
+               <item>A Tinker,</item>
+               <item>A Broom-man,</item>
+               <item>A Cobler,</item>
+               <item>And a Chimny ſwe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>per.</item>
+            </list>
+            <list>
+               <head>Five things commendable in a youth.</head>
+               <item>To be reverend in company,</item>
+               <item>To make haſte in an Errand,</item>
+               <item>To imploy his buſineſs cloſely,</item>
+               <item>To be true to him that put him in truſt,</item>
+               <item>And to be obedient to his Parents.</item>
+            </list>
+            <list>
+               <head>Five extremities all men are ſubject unto.</head>
+               <item>Subject unto vain delights,</item>
+               <item>Subject to ſinful actions,</item>
+               <item>Subject to many misfortunes,</item>
+               <item>Subject to ſlavery of ſin,</item>
+               <item>And ſubject to death.</item>
+            </list>
+            <list>
+               <head>Five things are not agreable with the other.</head>
+               <item>A queaſie ſtomach and bad fare,</item>
+               <item>A thirſty man and a little pot,</item>
+               <item>A weak horſe and a heavy load,</item>
+               <item>A luſty ſouldier and a fearful coward,</item>
+               <item>A ſcolding wife and a fighting husband,</item>
+            </list>
+            <list>
+               <pb n="3" facs="tcp:50525:3"/>
+               <!-- PDF PAGE 120 -->
+               <head>Five things will hardly be hidden.</head>
+               <item>Poverty in pride,</item>
+               <item>Wantonneſs in luſt,</item>
+               <item>A wart in the face or fore-head,</item>
+               <item>A Glow-worm in the dark,</item>
+               <item>And a painted whore in an open window,</item>
+            </list>
+            <list>
+               <head>Five dangerous Exerciſes.</head>
+               <item>Wraſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ling in the Ring,</item>
+               <item>Swimming in deep Rivers,</item>
+               <item>Fighting with mad men,</item>
+               <item>Dicing with cheaters,</item>
+               <item>And dancing in Bawdy-houſes.</item>
+            </list>
+            <list>
+               <head>Five ſorts of men very neceſſary in an Army.</head>
+               <item>A Couragious General,</item>
+               <item>Bold-hearted Captains,</item>
+               <item>Valiant Lieutenants,</item>
+               <item>Able Sergeants,</item>
+               <item>And ſtout Souldiers.</item>
+            </list>
+            <list>
+               <head>Five noble Vertues belong to a Souldier.</head>
+               <item>To be valiant in his proceedings,</item>
+               <item>To be honeſt in all his actions,</item>
+               <item>To be wiſe in his carriage,</item>
+               <item>To be true to his truſt,</item>
+               <item>And to keep honeſt company.</item>
+            </list>
+            <list>
+               <head>Five good properties in a Maid.</head>
+               <item>To be ſeen and not heard.</item>
+               <item>To be civil and not coy,</item>
+               <pb n="4" facs="tcp:50525:3"/>
+               <!-- PDF PAGE 120 -->
+               <item>To be loving and not wanton,</item>
+               <item>To anſwer when ſhe is ſpoken to,</item>
+               <item>And to go handſome and not proud.</item>
+            </list>
+            <list>
+               <head>Five Leſſons fit for young Scholars to Learn.</head>
+               <item>To give honour to Age,</item>
+               <item>To be courteous in behaviour,</item>
+               <item>To be humble in condition,</item>
+               <item>To be excellent in knowledge,</item>
+               <item>And to be charitable to the poor.</item>
+            </list>
+            <list>
+               <head>Five things too common in uſe.</head>
+               <item>Hateful pride in married women,</item>
+               <item>Wanton Luſt in wilful Maids,</item>
+               <item>Deadly drunkenneſs in ſinful women,</item>
+               <item>Griping greedineſs in covetous perſons,</item>
+               <item>And diſſimulation among fawning people.</item>
+            </list>
+            <list>
+               <head>There are five ſorts of nimble pickers which deſerve to be puniſhed.</head>
+               <item>A Pick-thank for telling falſe tales,</item>
+               <item>A Pick quarrel for making miſchief,</item>
+               <item>A Pick-look for robing his neighbour,</item>
+               <item>A Pick-window to let in Rogues,</item>
+               <item>And they that pick-pockets to purchaſe the Halter.</item>
+            </list>
+            <list>
+               <head>There are five ſorts of people ill to truſt,</head>
+               <item>Truſt not a Paraſite with thy dinner,</item>
+               <item>Truſt not a thief with thy money,</item>
+               <item>Truſt not a drunkard in thy Cellar,</item>
+               <pb n="5" facs="tcp:50525:4"/>
+               <!-- PDF PAGE 121 -->
+               <item>Truſt not a Ranter with thy wife,</item>
+               <item>Nor truſt not a Whore with thy ſecrets.</item>
+            </list>
+            <list>
+               <head>Five ſorts of labourers ought to be kickt.</head>
+               <item>They that go to a feaſt without bidding.</item>
+               <item>They that breed diſturbance among neigh<g ref="char:EOLhyphen"/>bours.</item>
+               <item>They that breed debate between man and wife,</item>
+               <item>And they that carry falſe tales from one to another.</item>
+            </list>
+            <list>
+               <head>Theſe five things offend the Eyes.</head>
+               <item>Taking too much Tobacco,</item>
+               <item>Standing too long in the cold,</item>
+               <item>Gazing too much upon painted drabs,</item>
+               <item>To ſee others flouriſh with thy goods,</item>
+               <item>And to ſee thy friends want and cannot help them.</item>
+            </list>
+            <list>
+               <head>Five ſorts of people not to be pitied.</head>
+               <item>They that will want meat, rather than work to get it,</item>
+               <item>They that will lie ſtill while a Cart runs over them,</item>
+               <item>They that will not be ruled by their friends,</item>
+               <item>They that ſpend their means waſtfully,</item>
+               <item>And they that fall into a pit that they dig'd for others.</item>
+            </list>
+            <list>
+               <pb n="6" facs="tcp:50525:4"/>
+               <!-- PDF PAGE 121 -->
+               <head>Five ſorts of people ill ſpoken of without deſert.</head>
+               <item>He that is rich is ſaid to be covetous,</item>
+               <item>He that is poor is counted idle,</item>
+               <item>He that is liberal is counted prodigal,</item>
+               <item>He that is valiant is counted a quarreller,</item>
+               <item>He that is fearful is ſaid to be a Coward.</item>
+            </list>
+            <list>
+               <head>Five ſorts of Creatures moſt buſie in hot weather.</head>
+               <item>A Bee in the Hony-pot,</item>
+               <item>A Duck in a Fiſh-pond,</item>
+               <item>A Mole in a Park,</item>
+               <item>A Lowſe in a boſome,</item>
+               <item>And a Fox among Geeſe.</item>
+            </list>
+            <list>
+               <head>Five ſpecial good things in a winter ſeaſon.</head>
+               <item>Wholeſome diet for the belly,</item>
+               <item>Warm cloathing for the back,</item>
+               <item>Ale and Spice for the ſtomach,</item>
+               <item>A good fire to fit by,</item>
+               <item>And a ſoft bed to lie upon.</item>
+            </list>
+            <list>
+               <head>Five cunning Watchers.</head>
+               <item>The Cat will watch the Mouſe,</item>
+               <item>The Kite will catch the Chickins,</item>
+               <item>The Fox will watch the Geeſe,</item>
+               <item>The Woolf will watch the Lambs,</item>
+               <item>And the thief will watch the true man.</item>
+            </list>
+            <list>
+               <head>There are five ſorts of cunning cheaters.</head>
+               <item>The Owle will cheat the Mouſe,</item>
+               <item>The Fowler will catch the Kite,</item>
+               <pb n="7" facs="tcp:50525:5"/>
+               <!-- PDF PAGE 122 -->
+               <item>The Shepherd will catch the Wooll,</item>
+               <item>The trap will catch the Fox,</item>
+               <item>And the Gallows will catch the thief.</item>
+            </list>
+            <list>
+               <head>Five good commodities to be ſold in a Market.</head>
+               <item>Corn if it be not too dear,</item>
+               <item>Meat if it be not tainted,</item>
+               <item>Cheeſe if it be not rotten,</item>
+               <item>Eggs if they be not addle,</item>
+               <item>And Fiſh if it do not ſtink.</item>
+            </list>
+            <list>
+               <head>Five ſorts of men are beholding to the Horn.</head>
+               <item>The Ink-horn-maker for a lively-hood,</item>
+               <item>The Shoomaker to draw on their cuſtomers ſhoots,</item>
+               <item>The Farriers to drench ſick horſes with,</item>
+               <item>The Huntſman to call his hounds together,</item>
+               <item>And <hi>Tom</hi> of <hi>Bedlam</hi> to call the boys toge<g ref="char:EOLhyphen"/>ther.</item>
+            </list>
+            <list>
+               <head>Five things to be hated of honeſt men.</head>
+               <item>The perſon of a wicked Bawd,</item>
+               <item>The company of curſed Whor<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s,</item>
+               <item>The temptations of a flattering hypocrite,</item>
+               <item>The preſence of a hateful thief,</item>
+               <item>And the conditions of a drunken woman.</item>
+            </list>
+            <list>
+               <head>Theſe five deſerve to be coupled together.</head>
+               <item>A kind husband and a loving wife,</item>
+               <item>A croſs gram'd ſcold and a cudgels end,</item>
+               <pb n="8" facs="tcp:50525:5"/>
+               <!-- PDF PAGE 122 -->
+               <item>A cheating knave and the pillory,</item>
+               <item>A painted whore and old <hi>Bridewell,</hi>
+               </item>
+               <item>A brazen fac'd Bawd and the Cart.</item>
+            </list>
+            <list>
+               <head>Five couple well met.</head>
+               <item>A young man and a handſome maid,</item>
+               <item>Hot meat and a good ſtomach,</item>
+               <item>A wanton child and a dainty Rod,</item>
+               <item>A drunken man and a fair pair of ſtocks,</item>
+               <item>A luſty thief and a ſtrong pair of Gallows.</item>
+            </list>
+            <list>
+               <head>Theſe five ought not to be deſpiſed.</head>
+               <item>A ſervant that is ſorry for his fault,</item>
+               <item>An honeſt man that is fallen into poverty,</item>
+               <item>He that will ſpeak the truth and ſhame the Devil,</item>
+               <item>He that ſuffers wrong for quietneſs ſake,</item>
+               <item>And he that ſtrives to give good counſel.</item>
+            </list>
+            <list>
+               <head>Five things good to make a ſick man well.</head>
+               <item>Temperate diet at ſeaſonable times,</item>
+               <item>Merry company at all times,</item>
+               <item>A contented mind continually,</item>
+               <item>A clear conſcience day and night,</item>
+               <item>And a loving wife to guide his houſe.</item>
+            </list>
+            <list>
+               <head>Theſe five things will never agree.</head>
+               <item>Sobriety with Drunkenneſs,</item>
+               <item>Temperance with gluttony,</item>
+               <item>Charity with ſpightſulneſs,</item>
+               <item>Bounty with covetouſneſs,</item>
+               <item>And Chaſtity with wantonneſs,</item>
+            </list>
+            <list>
+               <pb n="9" facs="tcp:50525:6"/>
+               <!-- PDF PAGE 123 -->
+               <head>Theſe five things are of long continuance.</head>
+               <item>Sap in Oke,</item>
+               <item>Fire in Flint,</item>
+               <item>Life in a Cat,</item>
+               <item>Gold in a Miſers cheſt,</item>
+               <item>And vertue in the breaſt of a Virgin.</item>
+            </list>
+            <list>
+               <head>Five things are ſubject unto change.</head>
+               <item>The Moon will change her glory,</item>
+               <item>The wind will change its corner,</item>
+               <item>The prodigal will change his poſſeſſion,</item>
+               <item>A Lyar will change his tale,</item>
+               <item>And a drunkard will change his ſhirt for good liquor.</item>
+            </list>
+            <list>
+               <head>Five rare things have great infirmities.</head>
+               <item>The fragrant flower harbours the curſed Ser<g ref="char:EOLhyphen"/>pent,</item>
+               <item>The fineſt cloath is eaten with the Moth,</item>
+               <item>The f<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ireſt colour will be ſooneſt ſtained,</item>
+               <item>The flattering tongue hath the falſeſt heart,</item>
+               <item>And the hotteſt Love is the ſooneſt cold.</item>
+            </list>
+            <list>
+               <head>Five vices uſed too much amongſt Tradeſmen.</head>
+               <item>Deceit in ſelling their wares,</item>
+               <item>Swearing in ſelling their bargains,</item>
+               <item>Playing on Mondaies and Tueſdaies,</item>
+               <item>Truſting their goods to thoſe that will never pay,</item>
+               <item>And ab<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſing their Wives and Children,</item>
+            </list>
+            <list>
+               <pb n="10" facs="tcp:50525:6"/>
+               <!-- PDF PAGE 123 -->
+               <head>Five ſounds bring good news to England.</head>
+               <item>The ſound of Bells for joy of peace,</item>
+               <item>The ſound of a meſſenger that brings good news from beyond Sea,</item>
+               <item>The ſound of a trumpet in token of victory,</item>
+               <item>The ſound of muſick if it revives the ſenſes,</item>
+               <item>And the ſound of Market-folks if victuals be good cheap.</item>
+            </list>
+            <list>
+               <head>Five things cannot be numbred.</head>
+               <item>The Sand on the Sea-ſhore,</item>
+               <item>The graſs on the ground,</item>
+               <item>The Stars of the Firmament,</item>
+               <item>The Joyes of heaven,</item>
+               <item>And the Pains of Hell.</item>
+            </list>
+            <list>
+               <head>Theſe five things are pleaſant to behold.</head>
+               <item>A plentiful Harveſt,</item>
+               <item>A full market of all ſorts of proviſion,</item>
+               <item>To ſee our friends proſper in the world.</item>
+               <item>To ſee true religion flouriſh in our Land,</item>
+               <item>And to ſee juſtice executed upon offenders.</item>
+            </list>
+            <list>
+               <head>Five kinds of venemous ſtings.</head>
+               <item>The ſting of Aſps that can never be cured.</item>
+               <item>The ſting of Vipers that poiſons where it comes,</item>
+               <item>The ſting of a Scorpion that infects the bo<g ref="char:EOLhyphen"/>dy,</item>
+               <pb n="11" facs="tcp:50525:7"/>
+               <!-- PDF PAGE 124 -->
+               <item>The ſting of the Devil that infects the ſoul,</item>
+               <item>And the ſting of a ſcold that will never be at quiet.</item>
+            </list>
+            <list>
+               <head>Five ſorts of people muſt we beware of,</head>
+               <item>He that will ſay one thing and do another,</item>
+               <item>He that will cozen all he deals with,</item>
+               <item>He that will rather ſteal than labou,</item>
+               <item>He that will live by the ſweat of other mens brows,</item>
+               <item>And he that will borrow and never pay.</item>
+            </list>
+            <list>
+               <head>There are five ſorts of people that <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>z<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n the world.</head>
+               <item>They that ſell bad ware for good money,</item>
+               <item>They that go about in the name of Fortune<g ref="char:EOLhyphen"/>tellers,</item>
+               <item>Wenches that bring great b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>llies out of the Country to London.</item>
+               <item>Married men that go for Batchelors,</item>
+               <item>And night walking Whores that go for Maids</item>
+            </list>
+            <list>
+               <head>Five excellent Medicines to cure a hungry ſtomach.</head>
+               <item>A good cawdle <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>'th morning next the heart.</item>
+               <item>A good dinner of hot meat at noon,</item>
+               <item>A pottle of Mall'd Sack towards three of the Clock,</item>
+               <item>A ſhoulder of Mutton and a Capon for ſupper,</item>
+               <pb n="12" facs="tcp:50525:7"/>
+               <!-- PDF PAGE 124 -->
+               <item>And a warm ſhe bed-fellow to lie withal at night.</item>
+            </list>
+            <list>
+               <head>Fives ſorts of Laſſes much eſteemed of in Lincoln.</head>
+               <item>Mincing <hi>Moll</hi> of <hi>Turnbal-ſtreet</hi> and her Com<g ref="char:EOLhyphen"/>panions,</item>
+               <item>Bonny <hi>Kate</hi> the Kitchingſtuff wench and her gang,</item>
+               <item>Subtil <hi>Suſan</hi> the Orange and Lemmon-wench, and her fellows.</item>
+               <item>
+                  <hi>Maudlin</hi> the modeſt Milk-maid with her drag<g ref="char:EOLhyphen"/>gle tail.</item>
+               <item>And Frances the fine Fiſh-wench of Billingſ<g ref="char:EOLhyphen"/>gate, marry fough.</item>
+            </list>
+            <list>
+               <head>Five things neceſſary to be kept in memory.</head>
+               <item>To remember the time paſt what thou wert,</item>
+               <item>To remember the time preſent what thou art,</item>
+               <item>To remember the time to come what thou ſhalt be,</item>
+               <item>To remember what thy parents have done for thee,</item>
+               <item>And to remember to ſave ſomething in thy youth to keep thee when thou art old.</item>
+            </list>
+            <list>
+               <head>There are five ſorts of people muſt ſit down by the loſs.</head>
+               <item>A man that hath loſt his labour,</item>
+               <item>A boy that hath loſt his breakfaſt,</item>
+               <pb n="13" facs="tcp:50525:8"/>
+               <!-- PDF PAGE 125 -->
+               <item>A fool that hath loſt his Hobby-horſe,</item>
+               <item>A Widow that hath loſt her Husband,</item>
+               <item>And a wench that hath loſt her maiden-head.</item>
+            </list>
+            <list>
+               <head>There are five fooliſh faſhions in great requeſt.</head>
+               <item>Great bunches of ſmall ribbons on mens Cod<g ref="char:EOLhyphen"/>pieces,</item>
+               <item>Women to carry their coats above their knees,</item>
+               <item>Young fellows to powder their hair,</item>
+               <item>Wenches to wear black bags that have never a ſmock to put on,</item>
+               <item>Painted Whores to ride in Coaches while civil Gentlewomen go on foot.</item>
+            </list>
+            <list>
+               <head>There are five principal ſenſes belonging to a mans body.</head>
+               <item>The ſenſe of Seeing, whereby to diſcern good from evil,</item>
+               <item>The ſenſe of Hearing, whereby to underſtand what is ſpoken by others,</item>
+               <item>The ſenſe of Smelling, that we may not be miſtaken,</item>
+               <item>The ſenſe of Taſting, to pleaſe our own fancies,</item>
+               <item>And the ſenſe of Feeling, that we may know what we do.</item>
+            </list>
+            <list>
+               <head>Five things I could wiſh might continue ever.</head>
+               <item>A true well-ſettled Peace in <hi>England,</hi>
+               </item>
+               <item>Faithful love among neighbours,</item>
+               <pb n="14" facs="tcp:50525:8"/>
+               <!-- PDF PAGE 125 -->
+               <item>Deeds of Charity done to the poor,</item>
+               <item>That trading may be quicker than now it is,</item>
+               <item>And that every one would amend his life.</item>
+            </list>
+            <list>
+               <head>Five other wiſhes to conclude with.</head>
+               <item>Would all knaves would turn to be honeſt men,</item>
+               <item>Would all ſcolds would learn to be quiet,</item>
+               <item>Would poor men were better p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d for their labour,</item>
+               <item>Would money were more plentiful,</item>
+               <item>And would all that ſee my Books would buy them.</item>
+            </list>
+            <div type="envoy">
+               <lg>
+                  <l>
+                     <hi>Come along kind Cuſtomer buy every one.</hi>
+                  </l>
+                  <l>
+                     <hi>And then will my Books all the ſooner be gone.</hi>
+                  </l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
